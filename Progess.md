@@ -273,6 +273,7 @@
   **6/8/21**
   members:Manya, Pragya
   time: 9:30pm
+  
   Working on connecting Twilio and Bot, facing issues, trying to solve them. Slow progress.
   Decided to enroll in Research paper course for writing a good research paper for Rasa: Health Bot.
   
@@ -280,7 +281,7 @@
   
   **8/8/21**
   Members: Akansha, Pragya, Manya  
-  Discussion on documentation 
+  Discussions on documentation 
   
   
   
