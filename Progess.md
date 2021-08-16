@@ -161,16 +161,56 @@
   
   
   **24/7/21**
+  **Saturday**
+  meet time: 6:30pm
+  Available members: Ankit, Pragya, Akansha, Akriti
+  Ankit had earlier introduced Akriti to the team.
+  Akriti gave DBSM into to Pragya and Akansha!
+  Manya got all the info about it later by discussing it with the team on chat.
   
   
+  **25/7/21**
+  **Sunday**
+  Available members: Pragya, Ankit, Akriti
+  First DBSM session.
+  Akriti explained it to Pragya.
+  Akansha and Manya discussed with Akriti to have a breif session sometime later.
+  Akriti to provide material to remaining team who missed the impt session.
   
   
+  **26/7/21**
+  **Monday**
+  Available members: Manya, Pragya
+  Manya had encountered trouble using command prompt in windows while training the Bot so she started working on Command line   on Ubantu. It was decided that Manya completes Twilio and NGrok part, whereas Pragya completes Pipeline and policies, and do their respective documentations ASAP with all the error they encounter in the process for easier and faster understanding of other team members!
   
+  **27/7/21**
+  **Tuesday**
+  Available members: Manya
+  Pragya was unwell, so tgey discussed the progress on text.
+  Manya had tried implementing the Twilio part by watching Udemy videos and by going through Rasa documentations.
+  On trying hands on Twilio part of the Project, the team started encountering issues because most guide videos available for reference had old display of Twilio.
+  Manya was not able to find the Twilio web pg with links that have to be used to connect the bot using NGrok.
+  Moreover there were issues with the commands to install and implement NGrok on the computer. According to some videos tgere were different processes to install Ngrok in Linux and ubantu, Manya had figured out how to install it in Linux, since Pragya and Akansha had projects in Windows, Manya was left to try installing NGrok on windows as well!
+  It was decided Pragya would try to fig out the errors which Manya was facing to find Twilio links as soon as she start   feeling better.
   
+  Manya had been training her bot locally, the Bot worked perfectly fine except for storing values which the team still had   to fig out!
+  Pragya suggested to try implementing Local host, API, and environment variables for the bot to store values!
+  It was decided to complete Twilio and Pipelines by the end of the week since ine had exams and other was unwell.
   
-  
-  
-  **2/8/21**
+
+ **28/7/21**
+ **Wednesday**
+ Available members: Manya
+ Updated Messaging channel Twilio on main on GitHub repo: steps to install NGROK on Linux and Windows.
+ 
+ 
+ **29/7/21**
+ **Thursday**
+ Due to net issues the NGrok updation was not stored on GitHub so manya had to redo it.
+ Pragya tried making up Twilio account and installing Ngrok, she had some errors and didn't found the solution of it in the document (Messaging channel:Twilio(main)), so she explained Manya basics of documentation and provided her with a link along with explaining
+ 
+ 
+ **2/8/21**
   Members: Pragya, Manya   
   Tried signing up for twilio, found different format than that in video and installed ngrok.   
   
