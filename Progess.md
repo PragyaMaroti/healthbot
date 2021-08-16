@@ -170,6 +170,33 @@
   
   
   
+  **2/8/21**
+  Members: Pragya, Manya   
+  Tried signing up for twilio, found different format than that in video and installed ngrok.   
+  
+  
+  **3/8/21**
+  Members: Pragya, Manya  
+  Read documentations for twilio cloud communication and rest API, tried different options to sign in.   
+  
+  **4/8/21**
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   **8/8/21**
   Members: Akansha, Pragya, Manya  
   Discussion on documentation 
