@@ -91,7 +91,9 @@
   **12/07/21**
   Monday
   Meet time:3.30 pm
-  Available members: Pragya, Akansha, Manya
+  Available members: Pragya, Akansha, Manya 
+  
+  
   Akansha and Manya tried training the model but weren't successfull so pragya helped them with it. 
   Traininng phase is still goin on. 
   Manya installed RASA again on Ubantu, after trying it on Windows and google collab. Version 2.80 was installed. 
@@ -107,6 +109,7 @@
   Tueday
   Meet time:3.30 pm
   Available members: Pragya, Akansha, Manya
+  
   Akansha tried training the model, was successfull in solving  local host error with Pragya's help. 
   Traininng phase is still goin on. 
   Pragya and Manya decided to work on Domain since Reet busy with her semester.
@@ -117,6 +120,8 @@
   Monday
   Meet time: 9.30pm
   Available members: none.
+  
+  
   Akansha on vacation. 
   Manya has exams going on.
   Pragya busy with some work.
@@ -127,6 +132,7 @@
   Tuesday
   Meet time: 9.30pm
   Available members: Manya, Pragya
+  
   Work assigned: Manya to keep working on training the model and start with Twilio(messaging channel) 
                  Pragya working on APIs
                  Akansha almost completed custom actions. 
@@ -136,6 +142,8 @@
   Wednesday
   Meet time: 9.30pm
   Available members: Manya, Pragya
+  
+  
   Still working on training the model on Linux Ubuntu. Rasa train won't work.
   Tried displaying the error to Pragya, but had issues with screen presentation.
   Read Domain file on github which was earlier updated by Pragya. Its completed.
@@ -157,6 +165,8 @@
   **23/7/21**   
   Meet time: 9:30pm
   Available members: Manya, Pragya   
+  
+
   Read about the Http protocols and policies.  
   
   
@@ -164,6 +174,7 @@
   **Saturday**
   meet time: 6:30pm
   Available members: Ankit, Pragya, Akansha, Akriti
+  
   Ankit had earlier introduced Akriti to the team.
   Akriti gave DBSM into to Pragya and Akansha!
   Manya got all the info about it later by discussing it with the team on chat.
@@ -172,6 +183,7 @@
   **25/7/21**
   **Sunday**
   Available members: Pragya, Ankit, Akriti
+  
   First DBSM session.
   Akriti explained it to Pragya.
   Akansha and Manya discussed with Akriti to have a breif session sometime later.
@@ -181,11 +193,13 @@
   **26/7/21**
   **Monday**
   Available members: Manya, Pragya
+ 
   Manya had encountered trouble using command prompt in windows while training the Bot so she started working on Command line   on Ubantu. It was decided that Manya completes Twilio and NGrok part, whereas Pragya completes Pipeline and policies, and do their respective documentations ASAP with all the error they encounter in the process for easier and faster understanding of other team members!
   
   **27/7/21**
   **Tuesday**
   Available members: Manya
+  
   Pragya was unwell, so tgey discussed the progress on text.
   Manya had tried implementing the Twilio part by watching Udemy videos and by going through Rasa documentations.
   On trying hands on Twilio part of the Project, the team started encountering issues because most guide videos available for reference had old display of Twilio.
@@ -201,11 +215,13 @@
  **28/7/21**
  **Wednesday**
  Available members: Manya
+ 
  Updated Messaging channel Twilio on main on GitHub repo: steps to install NGROK on Linux and Windows.
  
  
  **29/7/21**
  **Thursday**
+ 
  Due to net issues the NGrok updation was not stored on GitHub so manya had to redo it.
  Pragya tried making up Twilio account and installing Ngrok, she had some errors and didn't found the solution of it in the document (Messaging channel:Twilio(main)), so she explained Manya basics of documentation and provided her with a link for better understanding!
  
@@ -216,6 +232,7 @@
  **Friday**
  Members: Manya, Pragya 
  time: 9:30pm
+ 
  Pragya installed NGrok, created an account on it, and tried completing the sign up and account set up for Twilio, sge had some errors about Twilio sign up which they figured out in DSM.
  
  Pragya provided Manya with following link for better understanding of documentation techniques 
@@ -224,6 +241,7 @@
 
 **2/8/21**
   Members: Pragya, Manya   
+  
   Worked on twilio part and tried connecting it to the bot.   
   
   
@@ -231,8 +249,17 @@
   Members: Pragya, Manya  
   Read documentations for twilio cloud communication and rest API, tried different options to sign in.   
   
-  **4/8/21**
-    
+  **4/8/21 and 5/8/21**
+  
+  Discuss on making video series in 3 parts about project: 
+  
+  part1: Pragya, Manya, Akansha and Reet(Project ideas and basic discussions)
+  
+  part2: Pragya, Manya, Akansha, Akriti(DBSM)
+  
+  part3: Pragya, Manya, Akansha, Jennifer (deployment and research paper)
+  
+  It was decided that deadline for project completion be 17/8/21(initially phases of project completion) and deployment on larger level to begin!
   
   
   
@@ -240,8 +267,7 @@
   
   
   
-  
-  
+ 
   
   
   **6/8/21**
