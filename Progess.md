@@ -96,6 +96,7 @@
   Traininng phase is still goin on. 
   Manya installed RASA again on Ubantu, after trying it on Windows and google collab. Version 2.80 was installed. 
   Pragya and Akansha working on RASA on Windows.
+  Bot successfully interacted on command promt on pragya's system.
   Akansha been working on custom action.
   APIs part being handled by Pragya.
   
@@ -143,7 +144,7 @@
   Task: Work on Twilio and its documentation(Manya)
         Work on APIs(Pragya)
   Akansha on vacation, moreover her laptop hv issues and ain't working.
-  Reet left us a week ago, has lots of clg work, might join in further projects.
+ 
   
   
   
@@ -152,6 +153,65 @@
   Available members: Manya
   
   
+  
+  **23/7/21**   
+  Meet time: 9:30pm
+  Available members: Manya, Pragya   
+  Read about the Http protocols and policies.  
+  
+  
+  **24/7/21**
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  **8/8/21**
+  Members: Akansha, Pragya, Manya  
+  Discussion on documentation 
+  
+  
+  
+  **9/8/21**
+  Members: Akansha, Pragya, Manya   
+  Pragya encountered issues with python, not being recogniesd. Akansha's Laptop is troubling.
+  
+  **10/8/21**  
+  Members: Akansha, Pragya, Manya  
+  Pragya encounters another error with python and rasa versions.Discussed about docs and video resources on twilio and ngrok.
+  
+  
+  **11/8/21**  
+  Members: Akansha, Pragya, Manya  
+  Error got sorted, by re-installing older versions. Discussed about the video resources for twilio and ngrok
+  
+  **12/8/21**  
+  Members: Akansha, Pragya, Manya  
+  Referred few video resources and documentations for twilio and ngrok  
+  
+  **13/8/21**  
+  Members: Akansha, Pragya, Manya  
+  Whatsapp could be successfully used as messeging channel and tested with help of twilio and ngrok.   
+  
+  
+  
+  **14/8/21**  
+  Members: Pragya, Akansha, Manya   
+  Discussion: About Rasa X as next step and Twilio related explanations.  
+  
+  
+  
+  **15/8/21**
+  Members: Akansha, Pragya,Manya   
+  Discussed: Methods of Installation of Rasa X.   
+  
+  **16/8/21**
+  Members: Akansha, Pragya, Manya.  
+  Discussion: Rasa X got installed but isn't working on any of our systems. Errors encountered.
   
   
   
