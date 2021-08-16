@@ -207,12 +207,24 @@
  **29/7/21**
  **Thursday**
  Due to net issues the NGrok updation was not stored on GitHub so manya had to redo it.
- Pragya tried making up Twilio account and installing Ngrok, she had some errors and didn't found the solution of it in the document (Messaging channel:Twilio(main)), so she explained Manya basics of documentation and provided her with a link along with explaining
+ Pragya tried making up Twilio account and installing Ngrok, she had some errors and didn't found the solution of it in the document (Messaging channel:Twilio(main)), so she explained Manya basics of documentation and provided her with a link for better understanding!
+ 
+ Watching few videos, Manya concluded the installation steps were very different for NGrok in windows from Ubantu which she had to fig out for rest of the team!
  
  
- **2/8/21**
+ **30/7/21**
+ **Friday**
+ Members: Manya, Pragya 
+ time: 9:30pm
+ Pragya installed NGrok, created an account on it, and tried completing the sign up and account set up for Twilio, sge had some errors about Twilio sign up which they figured out in DSM.
+ 
+ Pragya provided Manya with following link for better understanding of documentation techniques 
+ https://guides.github.com/features/mastering-markdown/
+
+
+**2/8/21**
   Members: Pragya, Manya   
-  Tried signing up for twilio, found different format than that in video and installed ngrok.   
+  Worked on twilio part and tried connecting it to the bot.   
   
   
   **3/8/21**
@@ -232,8 +244,11 @@
   
   
   
-  
-  
+  **6/8/21**
+  members:Manya, Pragya
+  time: 9:30pm
+  Working on connecting Twilio and Bot, facing issues, trying to solve them. Slow progress.
+  Decided to enroll in Research paper course for writing a good research paper for Rasa: Health Bot.
   
   
   
