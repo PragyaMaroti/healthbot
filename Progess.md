@@ -200,16 +200,16 @@
   **Tuesday**
   Available members: Manya
   
-  Pragya was unwell, so tgey discussed the progress on text.
+  Pragya was unwell, so we discussed the progress on text.
   Manya had tried implementing the Twilio part by watching Udemy videos and by going through Rasa documentations.
   On trying hands on Twilio part of the Project, the team started encountering issues because most guide videos available for reference had old display of Twilio.
   Manya was not able to find the Twilio web pg with links that have to be used to connect the bot using NGrok.
-  Moreover there were issues with the commands to install and implement NGrok on the computer. According to some videos tgere were different processes to install Ngrok in Linux and ubantu, Manya had figured out how to install it in Linux, since Pragya and Akansha had projects in Windows, Manya was left to try installing NGrok on windows as well!
+  Moreover there were issues with the commands to install and implement NGrok on the computer. According to some videos tgere were different processes to install Ngrok in Linux   and ubantu, Manya had figured out how to install it in Linux, since Pragya and Akansha had projects in Windows, Manya was left to try installing NGrok on windows as well!
   It was decided Pragya would try to fig out the errors which Manya was facing to find Twilio links as soon as she start   feeling better.
   
-  Manya had been training her bot locally, the Bot worked perfectly fine except for storing values which the team still had   to fig out!
+  Manya had been training her bot locally, the Bot worked perfectly fine except for storing values which the team still had to fig out!
   Pragya suggested to try implementing Local host, API, and environment variables for the bot to store values!
-  It was decided to complete Twilio and Pipelines by the end of the week since ine had exams and other was unwell.
+  It was decided to complete Twilio and Pipelines by the end of the week sincemanya had exams and other was unwell.
   
 
  **28/7/21**
@@ -223,7 +223,7 @@
  **Thursday**
  
  Due to net issues the NGrok updation was not stored on GitHub so manya had to redo it.
- Pragya tried making up Twilio account and installing Ngrok, she had some errors and didn't found the solution of it in the document (Messaging channel:Twilio(main)), so she explained Manya basics of documentation and provided her with a link for better understanding!
+ Pragya tried making up Twilio account and installing Ngrok, she had some errors and didn't found the solution of it in the document (Messaging channel:Twilio(main)), so she     explained Manya basics of documentation and provided her with a link for better understanding!
  
  Watching few videos, Manya concluded the installation steps were very different for NGrok in windows from Ubantu which she had to fig out for rest of the team!
  
