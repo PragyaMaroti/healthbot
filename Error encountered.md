@@ -5,3 +5,9 @@ What to do:
  ❗python version 3.9 not compatible   
  What to do: Install python version 3.8 (or any version from 3.6x to 3.8x) and add to path.
  
+ Using  rasa x :   
+  use the command :
+ 
+      rasa x --enable-api   
+To avoid the error exception calling callback for...
+     
