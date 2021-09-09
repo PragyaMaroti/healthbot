@@ -9,5 +9,7 @@ What to do:
   use the command :
  
       rasa x --enable-api   
+   ![image](https://user-images.githubusercontent.com/64036955/132681666-fa69c095-ba4a-4b29-9557-89e558f846d1.png)
+
 - To avoid the error exception calling callback for...
      
