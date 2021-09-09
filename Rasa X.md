@@ -7,13 +7,17 @@ go to [this link](https://medium.com/co-learning-lounge/step-by-step-guide-to-in
 ### 2. Install rasa X by the following command
      
       pip3 install rasa-x --extra-index-url https://pypi.rasa.com/simple
+      
+### 3. Use the following command to run the server, enabling api:  
 
-### 3 . From your Rasa assistant's project directory, start it with
+          rasa run --enable-api
+
+### 4. From your Rasa assistant's project directory, start it with
         
         rasa x
 This should open a browser tab to http://localhost:5002.
 
 
 
-### 4 .
+### 5 .
 ![2021-08-16 01_45_16-Local Mode](https://user-images.githubusercontent.com/72215893/129491506-6ffd5c17-344d-4bfc-9902-f0634194d8c9.png)
