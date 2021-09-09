@@ -1,4 +1,4 @@
-1. ![image](https://user-images.githubusercontent.com/64036955/128819481-b27567fd-62a3-48ec-93a5-798760ae4986.png)
+1. ![image](https://user-images.githubusercontent.com/64036955/128819481-b27567fd-62a3-48ec-93a5-798760ae4986.png)   
 What to do:  
 - Control panel->python-> repair.
  This error isn't encountered now, but rasa is not found as an external / internal command.  
@@ -13,5 +13,5 @@ What to do:
    
    ![image](https://user-images.githubusercontent.com/64036955/132681666-fa69c095-ba4a-4b29-9557-89e558f846d1.png)
 
-- To avoid the error exception calling callback for...
+- To avoid the error: exception calling callback for...
      
