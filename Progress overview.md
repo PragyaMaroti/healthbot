@@ -87,4 +87,10 @@ syntax errors and other errors which we tried to sort out and we got this websit
 ## Week 2:  
 
 - A new member was introduced to the team and we had our first dbms session.
-- 
+- Started to learn more about pipelines and policies and its documentation.
+- Knowledge transfer session continued.
+- Saw various methods to connect chatbot with messeging channel.
+- Tried out the text messeging option and it worked. But, since every message was charged, we had to switch to another messeging channel
+- Decided to integrate it to whatsapp
+
+## Week 3:
