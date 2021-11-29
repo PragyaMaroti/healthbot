@@ -58,3 +58,33 @@ syntax errors and other errors which we tried to sort out and we got this websit
 
 --------------------------------------  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Month 3: 
+## Week 1:  
+
+- Continued Knowledge transfer sessions with Jennifer
+- Aakriti was introduced to the team and we had our first dbms session.
+- After connecting the bot to twillio, our next step was to connect it with a messaging channel and test it with other people too. So, we started to read about twilio and watched some videos, including the one in the udemy course.
+- We learned about ngrok, a way to create tunnel urls.
+- A member switched to a new system, with which we faced newer issues with working of bot.
+
+
+## Week 2:  
+
+- 
