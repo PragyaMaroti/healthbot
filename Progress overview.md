@@ -94,3 +94,5 @@ syntax errors and other errors which we tried to sort out and we got this websit
 - Decided to integrate it with whatsapp
 
 ## Week 3:
+- we faced python errors and documented the errors.
+- After many unsuccesful attempts , we were able to connect our bot with whatsapp temporarily.
