@@ -94,9 +94,10 @@ syntax errors and other errors which we tried to sort out and we got this websit
 - Decided to integrate it with whatsapp
 
 ## Week 3:
-- we faced python errors and documented the errors.
--
-
+- We faced python errors and it took some time to resolve .
+- Few members were able to connect the bot with whatsapp while few were struggling with system errors.
+- We had our DBMS session .
+- Documentation of policies and pipelines was going on.
 
 ## Week 4 :
 - We started reading about Rasa X and learning how to connect our bot with it.
