@@ -95,4 +95,13 @@ syntax errors and other errors which we tried to sort out and we got this websit
 
 ## Week 3:
 - we faced python errors and documented the errors.
-- After many unsuccesful attempts , we were able to connect our bot with whatsapp temporarily.
+-
+
+
+## Week 4 :
+- We started reading about Rasa X and learning how to connect our bot with it.
+- We installed rasa X on our systems but unfortunately we got lot of errors , did a thorough research on it .
+- We were more focused on  documentation this week.
+- We had third party documentation by Jenifer.
+- We read the third party documentation and rectified the errors.
+
