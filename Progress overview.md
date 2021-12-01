@@ -1,4 +1,10 @@
-
+   # MONTH 1 :
+   
+   ## Week  1:
+   
+  - All four team members from four different colleges were introduced to each other by Ankit sir. We decided to build a Contextual AI chatbot, using rasa . Rasa is an open source AI Framework,used  for building chat and voice based virtual assistants.
+- We all started gathering information about rasa framework, through its documentation, youtube videos  and then we discussed about all the resources.
+- we learnt the concept of scrum and agile methodology. The Daily Scrum Meeting is a 15-minute event for the Developers of the  team. To reduce complexity, it is held at the same time and place every working day of the Sprint.
 
 
 
