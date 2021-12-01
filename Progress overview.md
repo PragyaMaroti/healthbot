@@ -29,7 +29,7 @@
 - We documented the installation commands used in a shared document with us.
 - We all took our time to gain basic knowledge of NLU, actions and domain in the folllowing days from the documentation and video.
 
-
+----------------------------------------------------------------------------------
 
 
 
@@ -41,7 +41,7 @@
 - We also decided to document the concepts that in the previous week and accordingly divided the work.
 - At the end, we had a retrospective meeting for the first month.
 
----------------------------------
+------------------------------------------------------
 
 # MONTH 2
 
