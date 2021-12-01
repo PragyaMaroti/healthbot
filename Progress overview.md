@@ -51,7 +51,6 @@
 - We created a shared repository with the 4 of us as contributors.
 - We divided the work of documenting the NLU, domain, stories and rules file and related concepts among us.
 - We also started to write our progress file, where we documented the our daily progress and discussion. 
-
 - We continued with taking a glance at further videos too.
 - We learned the commands and process of running the bot on our systems while trying to run the simplest form of the bot(without using forms).
 
