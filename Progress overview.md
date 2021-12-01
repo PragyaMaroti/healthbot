@@ -21,7 +21,7 @@
 
 
 
------------------------------
+
 
 ## Week 4:
 - We made personal progresses till now in terms of learning.
@@ -31,7 +31,7 @@
 - We also decided to document the concepts that in the previous week and accordingly divided the work.
 - At the end, we had a retrospective meeting for the first month.
 
-----------------------------------
+---------------------------------
 
 # MONTH 2
 
@@ -45,7 +45,7 @@
 - We continued with taking a glance at further videos too.
 - We learned the commands and process of running the bot on our systems while trying to run the simplest form of the bot(without using forms).
 
----------------------------------------------------
+
 
 ## Week 2:  
 
@@ -56,8 +56,28 @@ syntax errors and other errors which we tried to sort out and we got this websit
 - One of our team member also faced ssome system troubles, we discussed the problems and sorted it out.
 - We started to document the learnings about forms, rasa commands and the python part of reference.
 
---------------------------------------  
+  
 
+## Week 3 :
+
+- By the time, we were able to run our bot on local systems.
+- We learned the concept of virtual environment and documented it.
+- While we were facing errors with our bot , we learned about environmental variables and how to set up environmental variables .
+- We also learned about local host and its related settings for windows’ system.
+- We were regularly going through the tutorials and documentation for reference as we were facing errors.
+- The team was consistently helping each other out for solving errors faced while training the bot with the help of rasa forum and other resources.
+- We Read about forms.
+
+
+## Week 4 :
+-  A team member, Reet left the team.
+-  Started with the knowledge transfer session on rasa.
+-  We faced issues with the forms part of some members, sorted it together.
+-  We connected our bot with airtable to store the user's data on the database by setting up the environmental variables on our systems as guided in the tutorials .
+-  Some members were able to connect the database while some were facing errors which have been sorted.
+-  We were able to train our model and see the flowchart showing the working of our bot.
+-  Some members were having their exams this month so we took a small break.
+-  We had a retrospective meeting in the end of the month.
 
 
 
@@ -78,7 +98,7 @@ syntax errors and other errors which we tried to sort out and we got this websit
 # Month 3: 
 ## Week 1:  
 
-- Continued Knowledge transfer sessions.
+- Continued Knowledge transfer sessions on Rasa.
 - After connecting the bot to airtable, our next step was to connect it with a messaging channel and test it with other people too. So, we started to read about twilio and watched some videos, including the one in the udemy course.
 - We learned about ngrok, a way to create tunnel urls.
 - A member switched to a new system, with which we faced newer issues with working of bot.
@@ -88,7 +108,7 @@ syntax errors and other errors which we tried to sort out and we got this websit
 
 - A new member was introduced to the team and we had our first dbms session.
 - Started to learn more about pipelines and policies and its documentation.
-- Knowledge transfer session continued.
+- Knowledge transfer session on Rasa continued.
 - Saw various methods to connect chatbot with messeging channel.
 - Tried out the text messeging option and it worked. But, since every message was charged, we had to switch to another messeging channel
 - Decided to integrate it with whatsapp
