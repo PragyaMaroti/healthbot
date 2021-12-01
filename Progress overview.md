@@ -8,6 +8,12 @@
 - Agile software development refers to  software development methodologies centered round the idea of iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams.
  - After learning the concepts , our next step is to decide which chatbot we shall build. We made a google doc to write and share our ideas . 
 - We started reading about rasa framework and its components and started researching on our ideas to decide which chatbot shall we build with complete guidance.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+   ## Week  2:
+   - We continued to gather ideas which included a bot that could suggest courses, a bot that could provide information about vaccination and locate its centers. We also continued to research  about  this technology as this was completely new to us, so we decided to move forward with a guided project . We chose a weathterbot to start with.
+   -  We started following  the resources of weatherbot  and got to know that few links are broken and with that we could not move ahead.
  
 
 
