@@ -108,7 +108,7 @@ syntax errors and other errors which we tried to sort out and we got this websit
 - Started to learn more about pipelines and policies and its documentation.
 - Knowledge transfer session on Rasa continued.
 - Saw various methods to connect chatbot with messeging channel.
-- Tried out the text messeging option and it worked. But, since every message was charged, we had to switch to another messeging channel
+- Tried out the text messeging option and it worked. But, since every message was charged, we had to switch to another messeging channel.
 - Decided to integrate it with whatsapp
 
 ## Week 3:
