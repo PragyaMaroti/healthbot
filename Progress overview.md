@@ -94,17 +94,6 @@ syntax errors and other errors which we tried to sort out and we got this websit
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 # Month 3: 
 ## Week 1:  
 
@@ -135,4 +124,5 @@ syntax errors and other errors which we tried to sort out and we got this websit
 - We were more focused on  documentation this week.
 - We had third party documentation by Jenifer.
 - We read the third party documentation and rectified the errors.
+- We had our retrospective meeting.
 
