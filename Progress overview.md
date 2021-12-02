@@ -75,7 +75,7 @@ syntax errors and other errors which we tried to sort out and we got the website
 - We also learned about local host and its related settings for windows’ system.
 - We were regularly going through the tutorials and documentation for reference as we were facing errors.
 - The team was consistently helping each other out for solving errors faced while training the bot with the help of rasa forum and other resources.
-- We Read about forms.
+- We read about forms.
 
 
 ## Week 4 :
