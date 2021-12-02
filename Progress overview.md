@@ -109,7 +109,7 @@ syntax errors and other errors which we tried to sort out and we got the website
 - Knowledge transfer session on Rasa continued.
 - Saw various methods to connect chatbot with messeging channel.
 - Tried out the text messeging option and it worked. But, since every message was charged, we had to switch to another messeging channel.
-- Decided to integrate it with whatsapp
+- Decided to integrate it with whatsapp .
 
 ## Week 3:
 - We faced python errors and it took some time to resolve .
