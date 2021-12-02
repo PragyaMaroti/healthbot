@@ -2,7 +2,7 @@
    
    ## Week  1:
    
-  - All four team members from four different colleges were introduced to each other by Ankit sir. We decided to build a Contextual AI chatbot, using rasa . Rasa is an open source AI Framework,used  for building chat and voice based virtual assistants.
+  - All four team members from four different colleges were introduced to each other by Ankit sir. We decided to build a Contextual AI chatbot, using rasa . Rasa is an open source AI Framework, used  for building chat and voice based virtual assistants.
 - We all started gathering information about rasa framework, through its documentation, youtube videos  and then we discussed about all the resources.
 - we learnt the concept of scrum and agile methodology. The Daily Scrum Meeting is a 15-minute event for the Developers of the  team. To reduce complexity, it is held at the same time and place every working day of the Sprint.
 - Agile software development refers to  software development methodologies centered round the idea of iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams.
@@ -61,7 +61,7 @@
 - As we learned about actions file through videos and documentation, we felt the need to know basic of python to understand 
 how to write the actions better. So, we started to learn about python, specially about the related terms in the file.
 - Meanwhile we also tried to run our simple bot(i.e, without forms part) on our systems, and we faced some 
-syntax errors and other errors which we tried to sort out and we got this website, where we could find yaml syntax errors. It made our task easier.
+syntax errors and other errors which we tried to sort out and we got the website, where we could find yaml syntax errors. It made our task easier.
 - One of our team member also faced ssome system troubles, we discussed the problems and sorted it out.
 - We started to document the learnings about forms, rasa commands and the python part of reference.
 
