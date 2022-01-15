@@ -79,9 +79,9 @@ syntax errors and other errors which we tried to sort out and we got the website
 
 
 ## Sprint 8:
--  A team member, Reet left the team.
--  Started with the knowledge transfer session on rasa.
--  We faced issues with the forms part of some members, sorted it together.
+-  A team member, Reet, left the team.
+-  Started with the knowledge transfer session on Rasa.
+-  We faced issues with the forms part, and we sorted it together.
 -  We connected our bot with airtable to store the user's data on the database by setting up the environmental variables on our systems as guided in the tutorials .
 -  Some members were able to connect the database while some were facing errors which have been sorted.
 -  We were able to train our model and see the flowchart showing the working of our bot.
@@ -96,31 +96,31 @@ syntax errors and other errors which we tried to sort out and we got the website
 # Month 3: 
 ## Sprint 9:  
 
-- Continued Knowledge transfer sessions on Rasa.
-- After connecting the bot to airtable, our next step was to connect it with a messaging channel and test it with other people too. So, we started to read about twilio and watched some videos, including the one in the udemy course.
-- We learned about ngrok, a way to create tunnel urls.
-- A member switched to a new system, with which we faced newer issues with working of bot.
+- Continued knowledge transfer sessions on Rasa.
+- After connecting the bot to airtable, our next step was to connect it with a messaging channel and test it with other people too. So, we started to read Twilio   documentation and  refered to the Udemy course as well.
+- We learned about Ngrok, a way to create tunnel urls.
+- A member switched to a new system, with which we faced newer issues with working of bot, and we sorted those errors together.
 
 
 ## Sprint 10:  
 
-- A new member was introduced to the team and we had our first dbms session.
-- Started to learn more about pipelines and policies and its documentation.
-- Knowledge transfer session on Rasa continued.
+- A new member was introduced to the team and we had our first DBMS session.
+- Started to learn more about pipelines and policies and  documentated it.
+- Continued Knowledge transfer session on Rasa.
 - Saw various methods to connect chatbot with messeging channel.
 - Tried out the text messeging option and it worked. But, since every message was charged, we had to switch to another messeging channel.
-- Decided to integrate it with whatsapp .
+- Decided to integrate it with whatsapp.
 
 ## Sprint 11:
-- We faced python errors and it took some time to resolve .
+- We faced python errors and it took time to resolve them.
 - Few members were able to connect the bot with whatsapp while few were struggling with system errors.
-- We had our DBMS session .
+- We had our DBMS session.
 - Documentation of policies and pipelines was going on.
 
 ## Sprint 12:
-- We started reading about Rasa X and learning how to connect our bot with it.
-- We installed rasa X on our systems but unfortunately we got lot of errors , did a thorough research on it .
-- We were more focused on  documentation this week.
+- We started reading about Rasa-X and learning how to connect our bot with it.
+- We installed Rasa-X on our systems but unfortunately we got lot of errors, following which we did a thorough research on it.
+- We were more focused on documentation this week.
 - We had third party documentation by Jenifer.
 - We read the third party documentation and rectified the errors.
 - We had our retrospective meeting.
