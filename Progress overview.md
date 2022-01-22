@@ -12,34 +12,33 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
    ## Sprint  2:
-   - We continued to gather ideas which included a bot that could suggest courses, a bot that could provide information about vaccination and locate its centers. We also continued to research  about  this technology as this was completely new to us, so we decided to move forward with a guided project . We chose a weathterbot to start with.
-   -  We started following  the resources of weatherbot  and got to know that few links are broken and with that we could not move ahead.
-   -  We again looked for another suitable resource and with the help of Rasa's udemy videos and documentation for newer version , we decided to build a chatbot that can     maintain a user's health records on a daily basis .
-   -  We started to get some basic information about rasa through the udemy course and also started to refer documentation by Rasa.
-   -  Meanwhile, some members were facing issues with installation and some members were looking for an alternative for installation of rasa on google collab .
-
+   - We continued to gather ideas which included a bot that could suggest courses, a bot that could provide information about vaccination and locate its centers. We also continued to research about this technology as this was completely new to us, so we decided to move forward with a guided project. We chose a weather bot to start with.
+   -  We started following the resources of the weather bot and got to know that a few links are broken and with that, we could not move ahead.
+   -  We again looked for another suitable resource documentation for a newer version, we decided to build a chatbot that can maintain a user's health records daily.
+   -  We started to get some basic information about rasa through the udemy course and also started to refer to documentation by Rasa.
+   -  Meanwhile, some members were facing issues with installation and some members were looking for an alternative for the installation of rasa on google collab.
 
 ------------------------------------------------
  
 
 ## Sprint 3:
 
-- We faced timing issue for our dsm, as all the members were not available at a particular common time due to temproary changes in their schedules
+- We faced a timing issue for our DSM, as all the members were not available at a particularly common time due to temporary changes in their schedules.
 - We found that installation will be a better option for us as the latest version of Rasa was not available with google collab. 
 - We documented the installation commands used in a shared document with us.
-- We all took our time to gain basic knowledge of NLU, actions and domain in the folllowing days from the documentation and video.
+- We all took our time to gain basic knowledge of NLU, actions, and domain in the following days from the documentation and video.
 
 ----------------------------------------------------------------------------------
 
 
 
 ## Sprint 4:
-- We made personal progresses till now in terms of learning.
-- We discussed about making the learning accessible to everyone of us with a shared repository.
-- We divided the work of making the basic nlu file domain file, rules file and story file among us.
-- We got advised to make a progress file and we discussed about it to give it a go.
-- We also decided to document the concepts that in the previous week and accordingly divided the work.
-- At the end, we had a retrospective meeting for the first month.
+- We made personal signs of progress till now in terms of learning.
+- We discussed making the learning accessible to every one of us with a shared repository.
+- We divided the work of making the basic nlu file domain file, rules file, and story file among us.
+- We got advised to make a progress file and we discussed it to give it a go.
+- We also decided to document the concepts in the previous week and accordingly divided the work.
+- In the end, we had a retrospective meeting for the first month.
 
 ------------------------------------------------------
 
